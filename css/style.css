@@ -1,0 +1,97 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    line-height: 1.3;
+    background-color: black;
+}
+
+header {
+    display: inline-block;
+    background-color: #9c27b0;
+}
+
+header ul {
+    display: contents;
+    align-content: center;
+}
+
+nav {
+    float: right;
+    display: flex;
+    flex-direction: row;
+}
+
+nav div {
+    align-self: center;
+}
+
+nav div ul {
+    display: flex;
+    flex-direction: row;
+    align-items: right;
+    justify-content: space-between;
+    min-width: 200px;
+    
+}
+
+nav a {
+    color: white;
+    font-family: serif;
+}
+
+nav a:hover {
+    color: cornflowerblue;
+}
+
+main {
+    align-self: center;
+    display: block;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 250px;
+}
+
+main div {
+    border-image: 200px;
+}
+
+main section {
+    width: 1000px;
+    align-self: center;
+    display: block;
+    background-color: #9c27b0;
+    border-radius: 25px;
+    flex-direction: column;
+}
+
+h1 {
+    align-items: center;
+    color: white;
+    font-family: serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2 {
+    color: white;
+    font-family: serif;
+    font-size: 400%;
+    font-weight: bold;
+}
+
+p {
+    align-items: left;
+    color: white;
+    font-family: serif;
+    font-size: 30px;
+}
+
+#About-me {
+    margin-bottom: 60%;
+}
+
+#Work {
+    margin-bottom: 60%;
+}
