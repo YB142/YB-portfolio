@@ -1,11 +1,8 @@
-<<<<<<< HEAD
+
 # Welcome to my first Portfolio!
 
 ## here you will find information about me, my work, and my contact information.
 =======
-# YB-portfolio
-
-## this is my second assignment for the coding bootcamp
 
 
 <img width="1440" alt="Screen Shot 2022-09-21 at 2 30 32 PM" src="https://user-images.githubusercontent.com/111719481/191583589-37e32284-fb27-4f31-808a-2d948c682007.png">
