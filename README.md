@@ -1,1 +1,3 @@
-# week-2
+# YB-portfolio
+
+## this is my second assignment for the coding bootcamp
